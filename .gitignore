@@ -4,37 +4,37 @@
 /yii_test.bat
 
 # phpstorm project files
-.idea
+#.idea
 
 # netbeans project files
-nbproject
+#nbproject
 
 # zend studio for eclipse project files
-.buildpath
-.project
-.settings
+#.buildpath
+#.project
+#.settings
 
 # windows thumbnail cache
-Thumbs.db
+#Thumbs.db
 
 # composer vendor dir
-/vendor
+#/vendor
 
 # composer itself is not needed
-composer.phar
+#composer.phar
 
 # Mac DS_Store Files
-.DS_Store
+#.DS_Store
 
 # phpunit itself is not needed
-phpunit.phar
+#phpunit.phar
 # local phpunit config
-/phpunit.xml
+#/phpunit.xml
 
 # vagrant runtime
-/.vagrant
+#/.vagrant
 
 # root files
-/index.php
-/index-test.php
-/robots.txt
+#/index.php
+#/index-test.php
+#/robots.txt
